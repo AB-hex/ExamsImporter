@@ -1,1 +1,1 @@
-javascript:var url='http://192.168.133.1:8080/gradesCalendar.js';var script=document.createElement('script');script.src=url;document.head.appendChild(script);
+javascript:var url='https://github.com/AB-hex/ExamsImporter/blob/main/gradesCalendar.js';var script=document.createElement('script');script.src=url;document.head.appendChild(script);
